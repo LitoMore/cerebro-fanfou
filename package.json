@@ -1,6 +1,6 @@
 {
   "name": "cerebro-fanfou",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A cerebro plugin for Fanfou",
   "license": "MIT",
   "repository": "LitoMore/cerebro-fanfou",
@@ -22,7 +22,8 @@
   "main": "dist/index.js",
   "keywords": [
     "cerebro",
-    "cerebro-plugin"
+    "cerebro-plugin",
+    "fanfou"
   ],
   "devDependencies": {
     "babel-cli": "^6.18.0",
