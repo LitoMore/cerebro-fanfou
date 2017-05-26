@@ -4,6 +4,14 @@ A Cerebro plugin for Fanfou
 
 ## Installation
 
+Type `plugins fanfou` in Cerebro
+
+Then click `install`
+
+![](images/cerebro-fanfou-install.png)
+
+**Manual Install**
+
 1. Go to the plugin path
 
   - Windows
