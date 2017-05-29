@@ -42,7 +42,7 @@ const plugin = (scope) => {
           const config = readConfig()
           scope.display({
             title: '饭否',
-            subtitle: '登录饭否帐号',
+            subtitle: '登录饭否账号',
             icon,
             onSelect: () => {
               const ff = new Fanfou({
