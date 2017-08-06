@@ -64,7 +64,8 @@ Enjoy it! :]
 
 ## Related
 
-* [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
+* [fanfou-sdk](https://github.com/LitoMore/fanfou-sdk-node) - Fanfou SDK for Node.js
+* [Cerebro](https://github.com/KELiON/cerebro) – main repo for Cerebro app;
 * [cerebro-plugin](https://github.com/KELiON/cerebro-plugin) – boilerplate to create plugins for Cerebro app.
 
 ## License
