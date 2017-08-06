@@ -66,3 +66,7 @@ Enjoy it! :]
 
 * [Cerebro](http://github.com/KELiON/cerebro) – main repo for Cerebro app;
 * [cerebro-plugin](https://github.com/KELiON/cerebro-plugin) – boilerplate to create plugins for Cerebro app.
+
+## License
+
+MIT @ [LitoMore](https://github.com/LitoMore)
