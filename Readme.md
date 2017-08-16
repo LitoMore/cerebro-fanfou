@@ -70,4 +70,4 @@ Enjoy it! :]
 
 ## License
 
-MIT @ [LitoMore](https://github.com/LitoMore)
+MIT © [LitoMore](https://github.com/LitoMore)
