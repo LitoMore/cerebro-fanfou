@@ -1,5 +1,9 @@
 # cerebro-fanfou
 
+[![](https://img.shields.io/npm/v/cerebro-fanfou.svg)](https://www.npmjs.com/package/cerebro-fanfou)
+[![](https://img.shields.io/npm/l/cerebro-fanfou.svg)](https://github.com/LitoMore/cerebro-fanfou/blob/master/LICENSE)
+[![](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 A Cerebro plugin for Fanfou
 
 ## Installation
